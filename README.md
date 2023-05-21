@@ -72,4 +72,4 @@ You should perform these steps for all other requests you want to send.
 ![postman](img/postman.png) </br>
 **Please note that some requests may be available only to users, while others may be restricted to administrators** `(refer to cinema/config/SecurityConfig)`.
 </br>
-###   <div style="text-align:center">Congratulations, the project is ready for use. Enjoy!
+### <div style="text-align:center">Congratulations, the project is ready for use. Enjoy!</div>
