@@ -1,4 +1,4 @@
-# <div style="font-size:40px; text-align:center">**Cinema** :movie_camera:</div>
+# <p align="center">**Cinema** :movie_camera:</p>
 ##  :speech_balloon: Description
 `This is a REST cinema project that allows users to register and authenticate. 
 It consists of two roles: user and admin, each with specific limitations in terms of project functionalities. 
@@ -71,5 +71,4 @@ This is the only request accessible to non-authenticated users. Next, in Postman
 You should perform these steps for all other requests you want to send.
 ![postman](img/postman.png) </br>
 **Please note that some requests may be available only to users, while others may be restricted to administrators** `(refer to cinema/config/SecurityConfig)`.
-</br>
-### <div style="text-align:center">Congratulations, the project is ready for use. Enjoy!</div>
+### <p align="center">Congratulations, the project is ready for use. Enjoy!</p>
